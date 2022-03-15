@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-👀 I’m Anas and I love technology :) I’m interested in web development with java JEE 
-🌱 I’m currently learning java and javascript also data science
--💞️ I’m looking to collaborate on projects about web development
+- 👀 I’m Anas and I love technology :) I’m interested in web development with java JEE 
+- 🌱 I’m currently learning java and javascript also data science
+- 💞️ I’m looking to collaborate on projects about web development
 - 📫 How to reach me: anas.elkacemi@esi.ac.ma
 
 **Languages I have used**
