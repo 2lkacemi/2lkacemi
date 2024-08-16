@@ -4,7 +4,7 @@
 - 👀 I’m Anas and I love technology :) 
 - 🌱 I’m interested in web development with springboot, Microservices and cloud computing.
 - 💞️ I’m looking to collaborate on projects about web development
-- 📫 How to reach me: anas.elkacemi@esi.ac.ma
+- 📫 How to reach me: anas.elkacemi@gmail.com
 
 **Languages I have used**
 
